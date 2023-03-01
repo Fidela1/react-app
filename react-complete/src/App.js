@@ -34,7 +34,7 @@ nameChangeHandler = (event) => {
 
 render () {
   const style = {
-  backgroundColor:'white',
+  backgroundColor:'red',
   font:'inherit',
   border:'1px solid blue',
   padding:'8px',
