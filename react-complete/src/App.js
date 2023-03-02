@@ -26,7 +26,7 @@ switchNameHandler = (newName) => {
 nameChangeHandler = (event) => {
   this.setState({
     persons: [
-      { name: 'Max', age: 22 },
+      { name: 'Max', age: 92 },
       { name: event.target.value, age: 19 },
     ],
   })
